@@ -1,7 +1,7 @@
 **加粗** *斜体*  [百度](www.baidu.com)  ~~需要划删除线的内容~~   emoji 表情:sparkles: :camel: :boom:
 
 数字列表：
-1. hu 
+1. hu //.和hu之间需要加入一个空格
 2. hao
 3. lin
 
@@ -9,7 +9,7 @@
 * hu
 * hao
 * lin
-  * 2000
+  * 2000 //*的前面需要一个Tab
   * 08
   * 08
 
@@ -24,9 +24,9 @@
 
 > 引用第一段文字 
 
-`int main()` 
+`int main()//``为反引号在esc的下面` 
 
-    #include <studio.h>  //向内缩进四个空格
+    #include <studio.h>  //代码段向内缩进四个空格即以代码显示
 
 ```
 #include <studio.h>
